@@ -1,0 +1,12 @@
+{
+  "name": "quasar-qrcode",
+  "version": "0.0.1",
+  "description": "A Quasar Framework app",
+  "author": "Hugo <hugo.ribaud@epitech.eu>",
+  "private": true,
+  "dependencies": {
+    "@capacitor/cli": "^2.0.0",
+    "@capacitor/core": "^2.0.0",
+    "@capacitor/ios": "2.5.0"
+  }
+}
